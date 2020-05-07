@@ -1,0 +1,17 @@
+{
+    "name": "samfch/klasifikasi-1",
+    "description": "Contoh klasifikasi dengan Rubix ML",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "samfch",
+            "email": "hanxgen3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "nesbot/carbon": "^2.0@dev",
+        "rubix/ml": "dev-master"
+    }
+}
