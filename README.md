@@ -1,4 +1,4 @@
-# Code for Data Mining RubixML example code
+# Code for Data Mining video series - RubixML example code
  Rubix ML example Code For Data Mining. Used as material for Data Mining Course in Informatics Engineering of Universitas Islam Sultan Agung 
 
 ## Usage
