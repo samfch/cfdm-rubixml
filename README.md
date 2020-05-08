@@ -1,5 +1,5 @@
 # Code for Data Mining - RubixML example code
-Code repo for Code For Data Mining video series. Used as material for Data Mining Course in Informatics Engineering of Universitas Islam Sultan Agung 
+Code repo for Coding For Data Mining video series. Used as material for Data Mining Course in Informatics Engineering of Universitas Islam Sultan Agung 
 
 ## Usage
 Clone or download
